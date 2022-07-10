@@ -1,11 +1,3 @@
-The command lines for the examples:
-./GraphGenerator -fexample.pdb -d10 -rvectors.txt
-./LSPalignment -1fr1.gr -2fr2.gr
-
-The output is a CSV file representing a common subgraph as an adjacency matrix
-
-
-
 ===============================================================================
 Copyright 2006 The Regents of the University of California, All Rights Reserved
 
