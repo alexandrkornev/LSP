@@ -94,7 +94,7 @@ int main(int argc, char *argv[] ) {
 	double DotProduct(struct VECTOR *, struct VECTOR *);
 	double Distance(double,double,double,double,double,double);
 	printf("Graph of residues represented by vectors. v.3.1 (August 15 2019)\n"
-			 "\tUsage: GraphGenW -fPdbfile -cChains -dDistance -rResidues\n"
+			 "\tUsage: GraphGenerator.exe -fPdbfile -cChains -dDistance -rResidues\n"
 			 "\tWhere Distance is a limit for the neighborhood (Angstroms)\n"
 			 "\tPdbfile - filename for the protein coordinates\n"
 			 "\tResidues - file containing residues representation\n"

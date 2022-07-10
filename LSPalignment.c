@@ -80,7 +80,7 @@ int main(int argc, char *argv[]){
 	struct DOUBLE_EDGE *de;
 	struct PROTEIN *protein;
 	printf("Graph similarity search by Edge Comparison and Combination. MD version. v.0.96 (November 21 2019)\n"
-		"Usage: MDLSP_W.exe -1graph1 -2graph2\n"
+		"Usage: LSPalignment.exe -1graph1 -2graph2\n"
 		"Optional parameters:\n"
 		"\t-a<RealNumber> tolerance for Ca-Ca distance comparison (Angstroms). Default = 0.4A\n"
 		"\t-b<RealNumber> tolerance for Ca-Cb distance comparison (Angstroms). Default = 0.75A\n"
